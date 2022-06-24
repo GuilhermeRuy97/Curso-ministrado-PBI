@@ -1,0 +1,44 @@
+DataPedido,Regiao,Estado,Vendedor,Item,Unidades,PrecoUnidade
+07/05/21,Nordeste,Pernambuco,Claudio,Geladeira,2,400.99
+07/06/21,Nordeste,Paraíba,Marcos,Microondas,3,159.99
+07/06/21,Sudeste,Minas,Maria,Bicicleta,2,799.99
+07/06/21,Nordeste,Bahia,Marcos,Microondas,1,159.99
+07/08/21,Sudeste,Rio de Janeiro,Marcos,Bicicleta,2,799.99
+07/08/21,Nordeste,Alagoas,Claudio,Fogao,2,400.99
+07/08/21,Sul,Santa,Claudio,Air Fryer,1,100.99
+07/09/21,Sudeste,Minas,Claudio,Air Fryer,1,100.99
+07/09/21,Sudeste,Rio de Janeiro,Marcos,Notebook,1,5500.00
+07/09/21,Nordeste,Pernambuco,Maria,Geladeira,1,3000.00
+07/09/21,Sul,Rio de Janeiro,Maria,Bicicleta,3,799.99
+07/10/21,Sudeste,Minas,Claudio,Air Fryer,4,100.99
+07/10/21,Sul,Rio de Janeiro,Claudio,Bicicleta,5,799.99
+07/10/21,Nordeste,Sergipe,Claudio,Fogao,1,800.99
+07/10/21,Sudeste,Rio de Janeiro,Marcos,Notebook,1,5500.00
+07/11/21,Nordeste,Bahia,Marcos,Fogao,1,1900.99
+07/11/21,Sudeste,Rio de Janeiro,Claudio,Notebook,2,5500.00
+07/11/21,Sudeste,Minas,Gerais,Air Fryer,1,100.99
+07/12/21,Sudeste,Rio de Janeiro,Marcos,Notebook,1,5500.00
+07/12/21,Sudeste,Rio de Janeiro,Maria,Notebook,1,5500.00
+07/12/21,Sudeste,Rio de Janeiro,Claudio,Notebook,4,5500.00
+07/12/21,Nordeste,Pernambuco,Claudio,Geladeira,5,3000.00
+07/01/22,Nordeste,Ceará,Claudio,Fogao,1,1350.99
+07/01/22,Sudeste,São Paulo,Maria,Air Fryer,1,100.99
+07/01/22,Sudeste,São Paulo,Marcos,Air Fryer,2,100.99
+07/02/22,Sudeste,São Paulo,Marcos,Air Fryer,3,100.99
+07/02/22,Sudeste,São Paulo,Claudio,Air Fryer,1,100.99
+07/02/22,Nordeste,Ceará,Maria,Microondas,1,159.99
+07/02/22,Sudeste,São Paulo,Claudio,Air Fryer,1,100.99
+07/03/22,Sul,Paraná,Claudio,Microondas,2,159.99
+07/03/22,Sul,Santa Catarina,Claudio,Air Fryer,1,100.99
+07/03/22,Sudeste,São Paulo,Paulo,Air Fryer,1,100.99
+07/04/22,Nordeste,Pernambuco,Maria,Microondas,1,159.99
+07/04/22,Sudeste,São Paulo,Marcos,Air Fryer,10,100.99
+07/04/22,Sudeste,São Paulo,Maria,Air Fryer,1,100.99
+07/04/22,Nordeste,Bahia,Maria,Fogao,1,400.99
+07/06/22,Sudeste,São Paulo,Maria,Air Fryer,1,100.99
+07/06/22,Sudeste,São Paulo,Marcos,Air Fryer,2,100.99
+07/06/22,Sul,Rio de Janeiro,Claudio,Bicicleta,3,799.99
+07/06/22,Sudeste,São Paulo,Maria,Air Fryer,3,100.99
+07/08/22,Nordeste,Rio de Janeiro,Claudio,Bicicleta,1,799.99
+07/08/22,Sudeste,São Paulo,Marcos,Air Fryer,2,100.99
+07/08/22,Sudeste,São Paulo,Claudio,Air Fryer,2,100.99
